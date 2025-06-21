@@ -47,6 +47,18 @@
         "lng": "-2.13128394200588"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Acerra",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-06-21T04:15:21.000Z",
+      "notes": "Beatifull place ! i enjoyed it so much ❤️",
+      "position": {
+        "lat": "40.979898069620155",
+        "lng": "14.414062500000002"
+      },
+      "id": 98443199
     }
   ]
 }
